@@ -1,0 +1,18 @@
+[
+    {
+        "transactionAmount": 200,
+        "currency": "USD",
+        "senderPhone": "00201234567890",
+        "transactionStatus": 1,
+        "transactionDate": "2021-03-29 09:36:11",
+        "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "transactionAmount": 100,
+        "currency": "EGP",
+        "senderPhone": "00201234567890",
+        "transactionStatus": 1,
+        "transactionDate": "2021-03-29 09:36:11",
+        "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    }
+]
